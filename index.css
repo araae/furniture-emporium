@@ -1,0 +1,36 @@
+body {
+  background-color: #424752;
+  background-size: cover;
+  font-family: sans-serif;
+  color: white;
+  margin: 50px;
+  padding: 20px;
+}
+
+header {
+  padding-left: 21px;
+}
+
+button {
+  background-color: white;
+  color: #6b492f;
+  font-size: 20px;
+  font-family: monospace;
+  font-weight: bold;
+  margin: 50px;
+  padding: 25px;
+}
+
+.product {
+  background-color: #faf7f4;
+  color: #5c534d;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin: 20px;
+  padding: 20px;
+}
+
+button:hover {
+  background-color: #f8fafc;
+  cursor: pointer;
+}
